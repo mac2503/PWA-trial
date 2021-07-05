@@ -1,0 +1,20 @@
+{
+  "name": "Mahek's PWA trial",
+  "short_name": "Mahek PWA",
+  "start_url": ".",
+  "background_color": "#DF5E5E",
+  "theme_color": "#FDD2BF",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
